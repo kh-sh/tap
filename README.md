@@ -1,0 +1,3 @@
+# tap
+Gaming has taken the world by a storm, becoming if not the most popular activity worldwide currently. Getting all people from all around the globe with each other, wither it be playing alongside each other or even against each other in order compete for various set of rewards, both in-game and sometimes extending to real life prizes. But, in order to actually play properly a proper PC setup that is suited for gaming is considered mandatory, to eliminate frame rate problems as a primary example and concern. With that out of the way, we are here to introduce you with TAP (Take a part), a brand-new company that offers the best gaming setups for individuals, extending from just solo or few parts or fully built PC! 
+(this project is only local hosted )
